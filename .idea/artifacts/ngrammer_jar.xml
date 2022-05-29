@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ngrammer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ngrammer_jar</output-path>
+    <root id="archive" name="ngrammer.jar">
+      <element id="module-output" name="ngrammer" />
+    </root>
+  </artifact>
+</component>
